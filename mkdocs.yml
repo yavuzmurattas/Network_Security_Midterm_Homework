@@ -1,0 +1,20 @@
+site_name: Network Security Applications and Tools
+site_url: ""
+nav:
+  - Home: 'index.md'
+  - Abstract: 'abstract.md'
+  - 'What is Firewall?': 'what_is_firewall.md'
+  - 'Intrusion Detection System (IDS) and Intrusion Prevention System (IPS)': 'ids_ips.md'
+  - 'Anti-Virus Software': 'anti_virus.md'
+  - 'What is Cryptography?': 'cryptography.md'
+  - 'Conclusion': 'conclusion.md'
+  - 'Appendix and References': 'appendix_references.md'
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: "#"
+      baselevel: 2
+      separator: "_"
+theme: readthedocs
