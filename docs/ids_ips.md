@@ -1,4 +1,4 @@
-#2.0 Intrusion Detection System (IDS) and Intrusion Prevention System (IPS)
+# 2.0 Intrusion Detection System (IDS) and Intrusion Prevention System (IPS)
 
 <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firewalls are not enough to protect a system from potential threats and attacks. Because firewall can be also beaten in cyber war or attack. Furthermore, if it is configured wrong, then it will gradually decrease the network traffic of the system because it may obstruct all or highly portion of the incoming traffic so that useful information or even alerts coming from other systems etc. cannot be reached. Hence, firewall cannot be used by itself. Some other protection tools must or even have to be used in the system to increase the security as well. Two of those protection tools called <strong>Intrusion Detection System (IDS)</strong> and <strong>Intrusion Prevention System (IPS)</strong> are described and given pros and cons thereof below.</p>
 
