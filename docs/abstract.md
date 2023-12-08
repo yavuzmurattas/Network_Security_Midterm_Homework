@@ -1,4 +1,4 @@
-#ABSTRACT:
+# ABSTRACT:
 <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the early development times of the Information Technology (IT) sector, main problem was loss of communication between systems. To achieve this challenge, many devices and standards like Open Systems Interconnect (OSI) was developed and many of them are developing as well.</p>
 
 <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since there was a loss in communication, security was not main object in information systems. So, there was no potential threats because nobody did not look at that part. However, someone began to interest in that part, that is, security.  And some malwares have been produced/coded over time. Those threats and malwares were being able to so many harmful to the systems that they can stole the critical data regarding people, companies, countries, copy themselves to speed up their propagation in system, or just watch the system and inform the one/ones who made this attack. </p>
