@@ -1,4 +1,4 @@
-#5.0 Conclusion
+# 5.0 Conclusion
 
 <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the first years of the information technologies, the main problem is not the security but the communication loss. Because many problems could arise in those years so that this loss of communication should be resolved in order to increase the communication ability between the countries, companies, people, etc. Therefore, many technological devices (and standards to provide compatibility between these devices) were begun to be developed in those years. Over time, in the increasingly developing and widespread information age, many problems occurred. However, these are not related with communication but security. The main problem is reversed. To achieve this problem, lots of technological device like firewalls, intrusion detection/intrusion prevention systems, anti-virus systems are developed. At first, these systems appear successful. But over time, vulnerabilities regarding those devices are discovered. In order to secure communication, cryptography and encryption also is used.</p>
 
