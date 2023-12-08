@@ -1,4 +1,4 @@
-#4.0 What is Cryptography?
+# 4.0 What is Cryptography?
 
 <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Cryptography</strong> is the art of secret writing that has been used since Roman times to conceal information or keep messages confidential. Encryption/decryption is a widely used method for keeping information private. Encryption and decryption are the fundamental functions of cryptography. A simple message (plain text) gets turned into an unreadable form called cypher text during encryption. A cypher text is turned into the original text (plaintext) during decryption. Both of these functions are used to secure message against who is not authorized to view the message contents.</p>
 
