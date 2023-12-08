@@ -1,5 +1,5 @@
 site_name: Network Security Applications and Tools
-site_url: ""
+site_url: "http://example.com/"
 nav:
   - Home: 'index.md'
   - Abstract: 'abstract.md'
