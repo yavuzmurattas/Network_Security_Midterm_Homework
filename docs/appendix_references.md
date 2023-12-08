@@ -1,6 +1,8 @@
-#6.0 Appendix
+# 6.0 Appendix
+
 [https://github.com/yavuzmurattas/Network_Security_Midterm_Homework](https://github.com/yavuzmurattas/Network_Security_Midterm_Homework)
-#7.0 References:
+
+# 7.0 References:
 Wack, J., Cutler, K., & Pole, J. (2002). Guidelines on firewalls and firewall policy. NIST special publication, 800, 41.
 
 Zalenski, R. (2002). Firewall technologies. IEEE potentials, 21(1), 24-29.
