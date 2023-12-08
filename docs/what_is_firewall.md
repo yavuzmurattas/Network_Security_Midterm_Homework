@@ -1,4 +1,4 @@
-#1.0 What is Firewall?
+# 1.0 What is Firewall?
 
 <p style="text-align: justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sophisticated security technologies must be developed at the interface between networks of different domains due to the rising complexity and width of a network. Otherwise, due to those complexity and width of the network, hackers or some can try to attack to the system and maybe even infiltrate to the system easily. In this way, they can steal the critical information, sell them, or the worse is that they can spread their attacks to the systems which are connect to the infiltrated system. The best way of ensuring interface security is the use of a firewall.</p>
 
